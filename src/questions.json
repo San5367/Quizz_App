@@ -1,0 +1,53 @@
+[
+    {
+      "question": "1.What is the capital of Turkey?",
+      "options": [
+        "Istambul",
+        "Ankara",
+        "Cappadoppia",
+        "Bursa"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "2.What is the capital of Pakistan?",
+      "options": [
+        "Islamabad",
+        "Lahore",
+        "Karachi",
+        "Faisalabad"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "3.What is the capital of France?",
+      "options": [
+        "Sweden",
+        "California",
+        "Paris",
+        "Miami"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "4.Which is the largest continent according to population?",
+      "options": [
+        "Europe",
+        "Asia",
+        "Africa",
+        "Australia"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "5.Which is smallest continent according to the population ?",
+      "options": [
+        "Asia",
+        "Australia",
+        "North America",
+        "South America"
+      ],
+      "correct": 1
+    }
+  ]
+  
